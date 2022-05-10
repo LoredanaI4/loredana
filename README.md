@@ -1,0 +1,2 @@
+# loredana
+devops-academy
